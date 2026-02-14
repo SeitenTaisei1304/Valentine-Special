@@ -119,7 +119,7 @@ export default function Memories() {
       url: "/US again.jpeg",
       type: "image",
       caption: "I Love You ❤️",
-      date: "Every Weekend",
+      date: "Every Day",
       rotation: -3
     }
   ];
